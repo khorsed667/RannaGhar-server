@@ -2,6 +2,9 @@ const express = require('express');
 const app = express();
 const port = 5000;
 const chef = require('./data/chef.json')
+var cors = require('cors')
+
+app.use(cors())
 
 
 app.get('/', (req, res)=>{
@@ -15,3 +18,7 @@ app.get('/chef', (req, res) =>{
 app.listen(port, ()=>{
     console.log(`the port is running on ${port}`);
 })
+
+
+
+// https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-khorsed667.git
