@@ -1,0 +1,26 @@
+[
+    {
+        "id": "sp001",
+        "name": "Seafood",
+        "description": "Fresh and delicious seafood dishes made from locally sourced ingredients.",
+        "image": "https://example.com/images/seafood.jpg"
+    },
+    {
+        "id": "sp002",
+        "name": "Steak",
+        "description": "High-quality steak dishes cooked to perfection by our expert chefs.",
+        "image": "https://example.com/images/steak.jpg"
+    },
+    {
+        "id": "sp003",
+        "name": "Vegetarian",
+        "description": "Healthy and tasty vegetarian dishes made from fresh vegetables and herbs.",
+        "image": "https://example.com/images/vegetarian.jpg"
+    },
+    {
+        "id": "sp004",
+        "name": "Vegan",
+        "description": "Delicious vegan dishes made from plant-based ingredients for our environmentally conscious customers.",
+        "image": "https://example.com/images/vegan.jpg"
+    }
+]
